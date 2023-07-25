@@ -204,6 +204,18 @@ section {
 }
 .header-content .right-header .contact-icons {
   margin-top: 1rem; /* Add some space between the name and the icons */
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-grey-5);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin-bottom: 5px;
 }
 
 .header-content .right-header .contact-icons .fab,
