@@ -209,6 +209,13 @@ section {
 .header-content .right-header .contact-icons .fab,
 .header-content .right-header .contact-icons .fas {
   font-size: 40px; /* Adjust the size as needed */
+  margin-right: 15px; /* Add right margin between the icons */
+}
+
+/* Additional space between icons, adjust as needed */
+.header-content .right-header .contact-icons .contact-icon a:not(:last-child) {
+  margin-right: 15px;
+}
 }
 
 .header-content .right-header p {
