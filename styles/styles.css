@@ -202,6 +202,15 @@ section {
 .header-content .right-header .name span {
   color: var(--color-secondary);
 }
+.header-content .right-header .contact-icons {
+  margin-top: 1rem; /* Add some space between the name and the icons */
+}
+
+.header-content .right-header .contact-icons .fab,
+.header-content .right-header .contact-icons .fas {
+  font-size: 40px; /* Adjust the size as needed */
+}
+
 .header-content .right-header p {
   margin: 1.5rem 0;
   line-height: 2rem;
