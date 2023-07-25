@@ -193,6 +193,8 @@ section {
   flex-direction: column;
   justify-content: center;
   padding-right: 18rem;
+  align-items: center;
+  text-align: center;
 }
 .header-content .right-header .name {
   font-size: 3rem;
@@ -207,7 +209,7 @@ section {
 .header-content .right-header .contact-icons .fab,
 .header-content .right-header .contact-icons .fas {
   font-size: 30px; /* Adjust the size as needed */
-  margin-right: 10px;
+  margin-right: 20px;
   align-items: center;
 }
 .header-content .right-header p {
