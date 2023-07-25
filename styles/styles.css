@@ -202,7 +202,7 @@ section {
 }
 .header-content .right-header .contact-icons {
   margin-top: 2rem; /* Add some space between the name and the icons */
-  
+  display: flex;
 }
 
 .header-content .right-header .contact-icons .fab,
