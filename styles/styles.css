@@ -192,6 +192,8 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   padding-right: 18rem;
 }
 .header-content .right-header .name {
