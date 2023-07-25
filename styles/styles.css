@@ -206,9 +206,7 @@ section {
 }
 .contact-icons {
   display: flex;
-  justify-content: center; /* Center the content horizontally */
   align-items: center; /* Center the content vertically */
-  height: 100vh; /* Set a height if you want the icons to be centered in the viewport */
 }
 
 .header-content .right-header .contact-icons .fab,
