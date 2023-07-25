@@ -216,7 +216,7 @@ section {
 
 /* Additional space between icons, adjust as needed */
 .header-content .right-header .contact-icons .contact-icon a:not(:last-child) {
-  margin-right: 15px;
+  margin-right: 5px;
 }
 }
 
