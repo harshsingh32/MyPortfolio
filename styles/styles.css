@@ -204,15 +204,11 @@ section {
   margin-top: 2rem; /* Add some space between the name and the icons */
   
 }
-.contact-icons {
-  display: flex;
-  align-items: center; /* Center the content vertically */
-}
-
 .header-content .right-header .contact-icons .fab,
 .header-content .right-header .contact-icons .fas {
   font-size: 30px; /* Adjust the size as needed */
-  margin-right: 15px;
+  margin-right: 10px;
+  align-items: center;
 }
 .header-content .right-header p {
   margin: 1.5rem 0;
